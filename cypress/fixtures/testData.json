@@ -1,0 +1,21 @@
+
+{
+    "url": "https://automationexercise.com/",
+    "productLocator": "/product_details/22",
+    "productName": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "companyName": "Apply Digital",
+    "companyAddress": "1066 W. Hastings St. Suite 1205",
+    "country": "Canada",
+    "state": "British Columbia",
+    "city": "Vancouver",
+    "zipcode": "V6E 3X1",
+    "mobileNumber": "+1 604 398 4043",
+    "cardNumber": "1111 2222 3333 4444",
+    "cvc": "123",
+    "mm": "03",
+    "yyyy": "2027",
+    "subject": "Cypress automated test for Apply Digital",
+    "contactMessage": "It has been an exciting challenge to learn a new tool while solving this exercise!",
+    "coment": "I hope you like this automated test run.",
+    "password": "AudentesFortunaIuvat"
+}
